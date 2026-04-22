@@ -14,3 +14,25 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+SheWealth 💰
+
+SheWealth is a full-stack financial management platform designed to help women manage expenses, savings, and financial goals.
+
+## Features
+- User authentication (Login/Signup)
+- Expense tracking & categorization
+- Budget management
+- Savings & financial goal tracking
+- Dashboard with financial insights
+
+## Tech Stack
+- Frontend: React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+
+## Key Highlights
+- REST API integration for data handling
+- Secure user authentication
+- Scalable full-stack architecture
